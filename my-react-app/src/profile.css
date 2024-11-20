@@ -43,7 +43,19 @@
     display: inline-block;
 }
 
-.Sleepyfox {
+.Wolves {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+    margin-bottom: 10px;
+}
+.cat {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+    margin-bottom: 10px;
+}
+.husky {
     max-width: 100%;
     height: auto;
     border-radius: 20%;
