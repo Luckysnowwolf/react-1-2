@@ -18,3 +18,7 @@
     text-align: center;
     padding: 30%;
 }
+.counter button{
+    background-color: black;
+    color: red;
+}
