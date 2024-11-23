@@ -6,7 +6,7 @@ function Husky(props){
         <div className="Profile">
         <img src={husky} alt="husky" className="husky"/>
         <h2 className="name">{props.title}</h2>
-        <p className="text">{props.text} <button>click for more info {props.moreInfo}</button></p>
+        <p className="text">{props.text}</p>
         </div>
       );
 }

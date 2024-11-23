@@ -6,7 +6,7 @@ function Whitefox(props){
         <div className="Profile">
         <img src={whitefox} alt="whitefox" className="Whitefox"/>
         <h2 className="name">{props.title}</h2>
-        <p className="text">{props.text} <button>click for more info {props.moreInfo}</button></p>
+        <p className="text">{props.text}</p>
         </div>
       );
 }
