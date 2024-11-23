@@ -10,6 +10,9 @@ function Navbar(){
                 <li class="links">
                     <Link to="/Last"><button class="button">Last</button></Link>
                 </li>
+                <li class="links">
+                    <Link to="/timer"><button class="button">Timer</button></Link>
+                </li>
             </ul>
         </nav>
     </div>

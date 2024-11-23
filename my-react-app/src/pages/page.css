@@ -18,7 +18,9 @@
     text-align: center;
     padding: 30%;
 }
-.counter button{
-    background-color: black;
-    color: red;
+.counter-button{
+font-size: 2em;
+padding: 10px;
+background-color: black;
+color: red;
 }

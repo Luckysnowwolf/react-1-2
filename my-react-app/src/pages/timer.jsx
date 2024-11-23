@@ -1,5 +1,5 @@
 import "./page.css";
-function Counter(){
+function Timer(){
     let count = 0;
     const handelEvent = (name) => {
         if (count < 3) {
@@ -12,8 +12,8 @@ function Counter(){
 
     return(
         <div>
-            <button classname="counter button" cnClick={() => handelEvent("")}>
-
+            <button classname="counter-button" cnClick={() => handelEvent("")}>
+                count up
             </button>
         </div>
     )
