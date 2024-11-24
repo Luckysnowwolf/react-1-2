@@ -18,9 +18,27 @@
     text-align: center;
     padding: 30%;
 }
-.counter-button{
-font-size: 2em;
-padding: 10px;
+.buttons3{
+margin-left: 40%;
+padding: 20px;
 background-color: black;
 color: red;
+}
+.buttons2{
+    padding: 20px;
+    background-color: black;
+    color: red;
+    }
+    .buttons{
+        padding: 20px;
+        background-color: black;
+        color: red;
+        }
+.number{
+    color:crimson;
+    text-align: center;
+    font-size: 75px;
+}
+.timer{ 
+    background-color: black;
 }
