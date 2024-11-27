@@ -8,10 +8,13 @@ function Navbar(){
                     <Link to="/"><button class="button">Home</button></Link>
                 </li>
                 <li class="links">
-                    <Link to="/Last"><button class="button">Last</button></Link>
+                    <Link to="/Mid"><button class="button">Midpage</button></Link>
                 </li>
                 <li class="links">
-                    <Link to="/timer"><button class="button">Timer</button></Link>
+                    <Link to="/Last"><button class="button">Lastpage</button></Link>
+                </li>
+                <li class="links">
+                    <Link to="/timer"><button class="button">Timerpage</button></Link>
                 </li>
             </ul>
         </nav>
