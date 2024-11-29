@@ -16,6 +16,7 @@ function Mid(){
 
     const handleColorChange = (e) => {
         setColor(e.target.value);
+      document.body.style.backgroundColor = color
     };
     const handleCommentChange = (e) => {
         setComment(e.target.value);
@@ -34,6 +35,7 @@ function Mid(){
 
         <input type="color" value={color} onChange={handleColorChange}/>
         <p class="Mid-text">pagecolor: {color}</p>
+        
 
         <textarea
             value={comment}
