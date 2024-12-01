@@ -14,6 +14,9 @@ function Navbar(){
                     <Link to="/Last"><button class="button">Lastpage</button></Link>
                 </li>
                 <li class="links">
+                    <Link to="/shopingcart"><button class="button">Shopingcart</button></Link>
+                </li>
+                <li class="links">
                     <Link to="/timer"><button class="button">Timerpage</button></Link>
                 </li>
             </ul>
