@@ -3,7 +3,7 @@ import Home from "./pages/Home.jsx";
 import Mid from "./pages/mid.jsx";
 import Last from "./pages/Last.jsx";
 import Timer from "./pages/timer.jsx";
-import Shopingcart from "./pages/shopingcart.jsx";
+import Shopingcart from "./pages/shoping.jsx";
 import Navbar from "./navbar.jsx";
 
 
