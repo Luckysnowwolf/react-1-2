@@ -23,17 +23,17 @@ function shoping() {
             ))}
             </ul>
             <input type="text"  class="textzone" placeholder="enter poster animal" id="posteroption" />
-            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">addamount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
+            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">add amount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
             <input type="text"  class="textzone" placeholder="enter poster animal" id="posteroption" />
-            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">addamount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
+            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">add amount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
             <input type="text"  class="textzone" placeholder="enter poster animal" id="posteroption" />
-            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">addamount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
+            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">add amount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
             <input type="text"  class="textzone" placeholder="enter poster animal" id="posteroption" />
-            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">addamount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
+            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">add amount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
             <input type="text"  class="textzone" placeholder="enter poster animal" id="posteroption" />
-            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">addamount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
+            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">add amount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
             <input type="text"  class="textzone" placeholder="enter poster animal" id="posteroption" />
-            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">addamount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
+            <button class="add" onClick={handleAddPoster}>add poster</button><button class="amount">add amount</button><button  class="remove" onClick={handleRemovePoster}>remove poster</button>
 
         </div>
     )
